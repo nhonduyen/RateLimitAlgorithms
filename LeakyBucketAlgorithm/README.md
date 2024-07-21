@@ -1,0 +1,2 @@
+﻿The Leaky Bucket algorithm is another popular traffic shaping and rate-limiting algorithm. 
+It controls the flow of data packets to ensure a steady stream. The Leaky Bucket works by draining at a constant rate, regardless of the burstiness of incoming packets.
